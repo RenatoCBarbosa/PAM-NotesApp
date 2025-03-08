@@ -1050,3 +1050,5 @@ D:\2DS\Thiago\PAM\NotesApp\NotesApp\obj\Debug\net8.0-android\stamp\_ConvertResou
 D:\2DS\Thiago\PAM\NotesApp\NotesApp\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 D:\2DS\Thiago\PAM\NotesApp\NotesApp\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\2DS\Thiago\PAM\NotesApp\NotesApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\2DS\Thiago\PAM\NotesApp\NotesApp\obj\Debug\net8.0-android\resizetizer\r\drawable\renatofeio.png
+D:\2DS\Thiago\PAM\NotesApp\NotesApp\obj\Debug\net8.0-android\NotesApp.sourcelink.json
